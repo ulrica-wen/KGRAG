@@ -1,0 +1,7 @@
+click
+Flask
+Flask-Cors
+requests
+cherche
+pandas
+rich
